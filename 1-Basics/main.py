@@ -16,3 +16,7 @@ y = 3
 print("6 + 3 = " , x + y)
 print("6 - 3 = " , x - y)
 print("6 * 3 = " , x * y)
+
+
+myName = input("What is your name ?");
+print("Hello " , myName);
